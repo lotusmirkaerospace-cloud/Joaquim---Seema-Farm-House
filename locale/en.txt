@@ -1,0 +1,44 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_08CC3469_079F_4445_4152_8387DC8508CD.text = 99 Years Lease Land
+HotspotPanoramaOverlayTextImage_0994503E_07B7_7C3F_418B_206CD76FE684.text = Farmhouse
+HotspotPanoramaOverlayTextImage_1792E1AD_078F_DCDD_417C_582AB345EA38.text = Road 
+HotspotPanoramaOverlayTextImage_094C2887_078B_4CCD_418E_A92E37CE9AB3.text = Towards 
+HotspotPanoramaOverlayTextImage_0973F77F_0795_C43D_419B_559AC5D230F3.text = Valley 
+
+## Media
+
+### Image
+imlevel_1D71B4ED_083B_DC77_418B_F14F4A997A7F.url = media/panorama_08B5401A_06FE_89CE_418C_5C4740BDFCC2_HS_0giundql_en.webp
+imlevel_1D4E44B6_083B_DCD5_414B_99A993F9E142.url = media/panorama_08B5401A_06FE_89CE_418C_5C4740BDFCC2_HS_mddcuos6_en.webp
+imlevel_1D4D2452_083B_D3AD_419C_3A868F675C96.url = media/panorama_08B5401A_06FE_89CE_418C_5C4740BDFCC2_HS_qgfra9oy_en.webp
+imlevel_1D4FF4D1_083B_DCAF_41A1_0D4815453534.url = media/panorama_08B5401A_06FE_89CE_418C_5C4740BDFCC2_HS_vk80vrdt_en.webp
+imlevel_1D4B9426_083B_D3F5_4197_3552A1618C28.url = media/panorama_08B5401A_06FE_89CE_418C_5C4740BDFCC2_HS_wn2i7a4u_en.webp
+
+### Title
+panorama_0A44C97F_06FE_BA46_4175_1BFEB80708DD.label = Boundary Point 1
+panorama_0A44DAD1_06FE_9E5A_4184_CECF73FCC4E1.label = Boundary Point 2
+panorama_0A449C12_06FE_79DE_4175_F1E10DAA3ED9.label = Boundary Point 3
+panorama_0A479479_06FD_8A4A_418E_AFFFAC3E868E.label = Boundary Point 4
+panorama_0A47A5BF_06FD_8AC6_4197_5B83C4E73BBF.label = Boundary Point 5
+panorama_0A479E40_06FD_B9BB_4171_E8B1F3EA52C8.label = Boundary Point 6
+panorama_0A443868_06FE_9A4A_4185_3F2F27BEED19.label = Center View
+panorama_0A44122F_06FE_89C5_4194_0FB2D6908A7D.label = Corner 1
+panorama_0A446371_06FE_8E5A_4170_3A3D05163E70.label = Corner 2
+panorama_0A478D38_06FD_9BCB_4193_EBC677E9DCDA.label = Corner 3 ( Triangle )
+panorama_0A478695_06FD_96DA_4181_DBD10A5DFC6D.label = Corner 4
+panorama_0A39F0B6_06FE_8AC6_4191_4E4676C359BC.label = Entry gate
+panorama_08B5401A_06FE_89CE_418C_5C4740BDFCC2.label = Highest Pano
+panorama_0A9F5D00_06FE_7BBB_4198_E259650C7B68.label = M4E Rectangle Adivasi Area
+panorama_0BD65C1B_0705_B9CE_4192_C0AD5B742703.label = M5 R
+panorama_0BD62437_0705_89C6_4191_F29104B86E42.label = M5 R
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Joaquim&Seema Farm House 
